@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;400;500;600;700;800&display=swap');
+
+.typewriter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3.5rem;
+    color: #eee;
+    font-family: 'Outfit',sans-serif;
+    height: 25vh;
+    padding: 1rem;
+}

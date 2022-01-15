@@ -1,0 +1,28 @@
+
+.card {
+    color: #eee;
+    border: 2px solid #eee;
+    margin: auto;
+    width: 90%;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.card-container {
+    text-align: center;
+}
+
+.card:hover {
+    background-color: #141414;
+}
+
+.card h3 {
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+@media screen and (max-width:640px){
+    .card h3 {
+        font-size: 2rem;
+    }
+}
