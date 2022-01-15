@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nexer_Reactjs_Demo/static/css/main.7cff65fa.css",
+    "main.js": "/Nexer_Reactjs_Demo/static/js/main.7c8a8825.js",
+    "static/media/space.mp4": "/Nexer_Reactjs_Demo/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/Nexer-3DGraphics-Motive02-Black.jpg": "/Nexer_Reactjs_Demo/static/media/Nexer-3DGraphics-Motive02-Black.57d8c2d4cc9be0a8f153.jpg",
+    "static/media/nexer-logo-partner.png": "/Nexer_Reactjs_Demo/static/media/nexer-logo-partner.232340f8e809ba28fda7.png",
+    "index.html": "/Nexer_Reactjs_Demo/index.html",
+    "main.7cff65fa.css.map": "/Nexer_Reactjs_Demo/static/css/main.7cff65fa.css.map",
+    "main.7c8a8825.js.map": "/Nexer_Reactjs_Demo/static/js/main.7c8a8825.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cff65fa.css",
+    "static/js/main.7c8a8825.js"
+  ]
+}
